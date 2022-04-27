@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(60, 118, 226);
+    font-size: 15px; /*tamanho padrão para fonte*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+   height: 525px;/*altura*/
+   width: 360px;
+   margin: 100px auto;
+   background: #ebd2d2;
+   box-shadow: 0 0 3px rgb(93, 92, 92);
+   border-radius: 20px;
+}
+.frorpeople{
+ margin-bottom: 100px;
+}
+.mamaco{
+color: white;
+background-color: rgb(19, 70, 209);
+text-align: center;
+position: relative;
+left: 130px;
+top: 10px;
+width: 70px;
+height: 35px;
+border-radius: 10px;
+}
